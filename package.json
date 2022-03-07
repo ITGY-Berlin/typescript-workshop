@@ -6,6 +6,7 @@
   "scripts": {
     "start": "tsc --watch"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
